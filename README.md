@@ -32,7 +32,7 @@
 * 修养篇
     * 程序员修养
         * [《97 Things Every Programmer Should Know》](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/index.html)
-        * [《提问的智慧》](http://doc.zengrong.net/smart-questions/cn.html)
+        * [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
         * [《X-Y PROBLEM》](https://coolshell.cn/articles/10804.html)
         * [《FAQ for Stack Exchange sites》](https://meta.stackexchange.com/questions/7931/faq-for-stack-exchange-sites)
         * [《代码大全（第2版）》](https://pan.baidu.com/s/1OUZZyH91mHPJUFDaGWI0Ig#list/path=%2F%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5%2F03-%E4%BF%AE%E5%85%BB%E7%AF%87%2F01-%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E5%85%BB&parentPath=%2F)
